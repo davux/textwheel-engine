@@ -74,7 +74,7 @@ $text = $textwheel->text($text);
 
 OK now, what's going to be boring is that, at some point, someone will have to rewrite all those engines into lists of rules. But then lists of rules will be _conventional_ and _description-based_. And this will mean a lot in terms of simplicity and interoperability.
 
-As an example, [there exists](http://github.com/Cerdic/textwheel/tree/master/wheels/spip/ "SPIP Wheel") a wheel written for [SPIP](http://spip.net/en "SPIP official website").
+As an example, [there exists](http://github.com/Cerdic/textwheel/tree/master/wheels/spip/ "SPIP Wheel") a wheel written for [SPIP](http://spip.net/en "SPIP official website"). The syntax corresponding specification in English is available [there](http://www.spip.net/aide/en-aide.html "SPIP online user help") (look for _"Typographical shortcuts"_).
 
 
 = Rules & Regulations =
